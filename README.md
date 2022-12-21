@@ -11,8 +11,12 @@ Commandline:
           python3 nn_multiplication.py --model lstm -l 9 2  
 
 Input
-[9. 2.]\\
-Predicted multiplication output\\
+
+[9. 2.]
+
+
+Predicted multiplication output
+
 [18.04326]
 
 ## Reverse sequence
@@ -25,6 +29,9 @@ python3 seq2seq_reverse_sequence.py --model lstm -l 8 2 3 6
 Result:
 
 Input 
+
 [8.0, 2.0, 3.0, 6.0]
+
 Predicted output
+
 [5.83, 2.7, 1.82, 7.51]
