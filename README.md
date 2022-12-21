@@ -1,6 +1,6 @@
 # meltingpot
 You will find two scripts in this repository, the first one 'nn_multiplication.py' performs number multiplication 
-and the second one 'seq2seq_reverse_sequence.py' take a sequence of numbers as input and returns it reverse sequence.
+and the second one 'seq2seq_reverse_sequence.py' takes a sequence of numbers as input and returns it reverse sequence.
 
 #Quick Start
 ## Multiplication
