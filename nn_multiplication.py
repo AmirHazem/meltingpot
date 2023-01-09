@@ -80,7 +80,7 @@ def train_bilstm(X, Y, hidden_size, seq_length, numb_features, epochs, batch_siz
 	return(model)
 
 
-# Train LSTM
+# Train RNN
 def train_rnn(X, Y, hidden_size, seq_length, numb_features, epochs, batch_size):
 
 	model = Sequential()
